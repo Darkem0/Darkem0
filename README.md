@@ -1,5 +1,6 @@
 ![banner](https://github.com/Darkem0/Darkem0/assets/118852220/c2b7aacc-a7f0-4b11-b445-8b2ca8ca563c)
-
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
 <h1 align="center">Hi 👋, I'm Emre Aslan</h1>
 <h3 align="center">A passionate AI developer from Türkiye</h3>
 
