@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/imgres?q=a%C4%B1%20background&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fwavy-background-concept_23-2148497712.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fai-background&docid=Ev3duk8o3FtdNM&tbnid=0-tu4_s6_ru5iM&vet=12ahUKEwjeutL-wpmGAxXQXvEDHRwiBxQQM3oECGUQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwjeutL-wpmGAxXQXvEDHRwiBxQQM3oECGUQAA)
+[![MasterHead](![banner](https://github.com/Darkem0/Darkem0/assets/118852220/c2b7aacc-a7f0-4b11-b445-8b2ca8ca563c)
+
 <h1 align="center">Hi 👋, I'm Emre Aslan</h1>
 <h3 align="center">A passionate AI developer from Türkiye</h3>
 
